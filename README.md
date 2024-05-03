@@ -18,7 +18,7 @@ Provide step-by-step instructions on how to install and set up the project local
 ```
 # Example installation steps
 git clone https://github.com/kartikeysingh93/Prodigy_Infotech_04.git
-cd PRODIGY_Infotech_04
+cd Prodigy_Infotech_04
 python tak4.py
 ```
 
